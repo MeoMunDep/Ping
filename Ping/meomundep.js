@@ -1,1 +1,1 @@
-console.log(`STOP UPDATING THIS GAME, PLEASE CHOOSE ANOTHER SCRIPTS!`)
+console.log(`Waitlist is ended, just download extension and earn!`)
